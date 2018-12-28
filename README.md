@@ -13,7 +13,6 @@
 pip install selenium
 pip install time
 pip install bs4
-pip install selenium
 ```
 
 ### 下载chromedriver驱动文件
